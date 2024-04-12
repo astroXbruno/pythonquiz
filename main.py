@@ -15,5 +15,5 @@ quiz = QuizBrain(question_bank)
 
 quiz.start_quiz()
 
-# Display the final score
+
 print(f"Your final score is: {quiz.score}/{len(quiz.question_list)}")
