@@ -1,2 +1,2 @@
 # pythonquiz
-A  python project created using OOPS concepts
+A  python project implemented using OOPS concepts
